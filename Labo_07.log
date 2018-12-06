@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.18)  5 DEC 2018 13:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6745 64-bit) (preloaded format=pdflatex 2018.8.18)  6 DEC 2018 16:57
 entering extended mode
 **./Labo_07.tex
 (Labo_07.tex
@@ -480,30 +480,146 @@ G,.JBIG2,.JB2,.eps]
 <./IMG/logo.jpg, id=1, 276.03125pt x 183.68625pt>
 File: ./IMG/logo.jpg Graphic file (type jpg)
 <use ./IMG/logo.jpg>
-Package pdftex.def Info: ./IMG/logo.jpg  used on input line 31.
+Package pdftex.def Info: ./IMG/logo.jpg  used on input line 29.
 (pdftex.def)             Requested size: 312.9803pt x 208.29456pt.
 [1
 
 {C:/Users/YERSON/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./IMG/logo
-.jpg>] (Labo_07.aux
+.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Overfull \hbox (16.44759pt too wide) in paragraph at lines 88--95
+\OT1/txr/m/n/12 CREATE TA-BLES-PA-CE USUA-RIO[]DATA DA-TA-FI-LE '/upt/DatosBase
+/DT[]USUARIO.DBF' SI-ZE 200M; 
+ []
+
+
+Overfull \hbox (4.06435pt too wide) in paragraph at lines 88--95
+\OT1/txr/m/n/12 CREATE TA-BLES-PA-CE USUA-RIO[]INDEX DA-TA-FI-LE '/upt/DatosBas
+e/DT[]USUARIO[]IDX.DBF' SI-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--95
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--107
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 108--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
+
+ []
+
+[1]
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 118--127
+
+ []
+
+
+Overfull \hbox (10.12299pt too wide) in paragraph at lines 118--127
+\OT1/txr/m/n/10.95 NOMBRE[]ESTUDIANTE VAR-CHAR2(100) CONS-TRAINT NN[]ESTUDIANTE
+[]NOMBRE[]ESTUDIANTE NOT
+ []
+
+
+Overfull \hbox (11.51428pt too wide) in paragraph at lines 118--127
+\OT1/txr/m/n/10.95 DIRECCION[]ESTUDIANTE VAR-CHAR2(100) CONS-TRAINT NN[]ESTUDIA
+NTE[]DIRECCION[]ESTUDIANTE
+ []
+
+
+Overfull \hbox (7.93303pt too wide) in paragraph at lines 118--127
+\OT1/txr/m/n/10.95 TELEFONO[]ESTUDIANTE NUM-BER(9) CONS-TRAINT NN[]ESTUDIANTE[]
+TELEFONO[]ESTUDIANTE NOT
+ []
+
+[2] (Labo_07.aux
 LaTeX Info: Redefining \. on input line 6.
 LaTeX Info: Redefining \% on input line 6.
 ) ) 
 Here is how much of TeX's memory you used:
- 4414 strings out of 492973
- 60997 string characters out of 3126249
- 134342 words of memory out of 3000000
- 8201 multiletter control sequences out of 15000+200000
- 10243 words of font info for 25 fonts, out of 3000000 for 9000
+ 4428 strings out of 492973
+ 61162 string characters out of 3126249
+ 136342 words of memory out of 3000000
+ 8211 multiletter control sequences out of 15000+200000
+ 14042 words of font info for 31 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  34i,5n,31p,246b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.e
-nc}<C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utm
-b8a.pfb><C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/time
-s/utmr8a.pfb>
-Output written on Labo_07.pdf (1 page, 35295 bytes).
+nc}<C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/txfont
+s/rtxr.pfb><C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/t
+imes/utmb8a.pfb><C:/Users/YERSON/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+urw/times/utmr8a.pfb>
+Output written on Labo_07.pdf (3 pages, 43676 bytes).
 PDF statistics:
- 16 PDF objects out of 1000 (max. 8388607)
+ 26 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
